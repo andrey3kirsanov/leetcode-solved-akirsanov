@@ -14,11 +14,13 @@ Tasks list:
 101. Symmetric Tree
 110. Balanced Binary Tree
 113. Path Sum II
+121. Best Time to Buy and Sell Stock
 130. Surrounded Regions
 136. Single Number
 141. Linked List Cycle
 200. Number of Islands
 206. Reverse Linked List
+239. Sliding Window Maximum
 242. Valid Anagram
 347. Top K Frequent Elements
 374. Guess Number Higher or Lower
@@ -28,8 +30,6 @@ Tasks list:
 763. Partition Labels
 
 TODO:
-121. Best Time to Buy and Sell Stock
 122. Best Time to Buy and Sell Stock II
 714. Best Time to Buy and Sell Stock with Transaction Fee
-239. Sliding Window Maximum
 480. Sliding Window Median
