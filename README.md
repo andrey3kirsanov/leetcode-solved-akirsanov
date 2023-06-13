@@ -15,6 +15,7 @@ Tasks list:
 110. Balanced Binary Tree
 113. Path Sum II
 121. Best Time to Buy and Sell Stock
+122. Best Time to Buy and Sell Stock II
 130. Surrounded Regions
 136. Single Number
 141. Linked List Cycle
@@ -30,6 +31,5 @@ Tasks list:
 763. Partition Labels
 
 TODO:
-122. Best Time to Buy and Sell Stock II
 714. Best Time to Buy and Sell Stock with Transaction Fee
 480. Sliding Window Median
